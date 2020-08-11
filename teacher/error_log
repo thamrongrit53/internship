@@ -1,0 +1,287 @@
+[13-Sep-2019 13:45:27 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[13-Sep-2019 13:53:23 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[13-Sep-2019 13:53:36 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[13-Sep-2019 13:56:25 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[13-Sep-2019 13:56:35 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[16-Sep-2019 08:34:11 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[16-Sep-2019 08:36:58 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[19-Sep-2019 06:01:17 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[19-Sep-2019 15:30:40 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[19-Sep-2019 15:31:19 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[20-Sep-2019 08:33:01 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[21-Sep-2019 06:44:12 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[21-Sep-2019 15:57:39 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[21-Sep-2019 17:10:08 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[23-Sep-2019 09:08:23 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[23-Sep-2019 09:09:01 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[23-Sep-2019 09:11:32 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[23-Sep-2019 09:12:13 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[23-Sep-2019 09:12:30 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[23-Sep-2019 09:12:30 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[24-Sep-2019 04:51:14 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[30-Sep-2019 04:10:13 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[30-Sep-2019 04:10:31 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:10:31 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:15:25 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[30-Sep-2019 04:17:14 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[30-Sep-2019 04:17:46 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:17:46 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:18:10 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:18:10 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:18:35 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:18:35 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:19:07 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:19:07 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:19:20 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:19:20 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:19:48 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:19:48 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:20:01 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:20:01 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:20:19 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:20:19 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:20:35 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:20:35 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:21:05 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:21:05 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:21:37 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:21:37 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:21:54 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:21:54 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Sep-2019 04:28:36 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[30-Sep-2019 04:29:44 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[30-Sep-2019 10:17:59 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[11-Oct-2019 02:32:28 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[11-Oct-2019 02:46:04 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[11-Oct-2019 02:50:35 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[11-Oct-2019 20:33:47 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[11-Oct-2019 20:38:22 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[16-Oct-2019 02:08:26 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[16-Oct-2019 02:09:13 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:09:13 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:09:33 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:09:33 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:09:51 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:09:51 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:10:09 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:10:09 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:10:26 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:10:26 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:10:39 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:10:39 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:10:50 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:10:50 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:11:04 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:11:04 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:11:25 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:11:25 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:12:00 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:12:00 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:12:16 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:12:16 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:12:39 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:12:39 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:13:04 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:13:04 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:13:21 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:13:21 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:13:36 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:13:36 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:13:51 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:13:51 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:14:22 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:14:22 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:14:40 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:14:40 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:14:57 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:14:57 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:15:13 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:15:13 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:15:26 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:15:26 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:15:40 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:15:40 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:16:12 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:16:12 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:16:31 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:16:31 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:16:53 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:16:53 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:17:21 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:17:21 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:23:27 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:23:27 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:23:47 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:23:47 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:24:05 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:24:05 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:24:27 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:24:27 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:24:43 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:24:43 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:24:57 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:24:57 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:25:16 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:25:16 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:25:29 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:25:29 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:25:42 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:25:42 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:25:56 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:25:56 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:26:47 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:26:47 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:27:03 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:27:03 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:27:20 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:27:20 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:27:35 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:27:35 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:27:52 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:27:52 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:28:06 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:28:06 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:28:23 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:28:23 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:28:37 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:28:37 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:28:53 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:28:53 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:29:10 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 02:29:10 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[16-Oct-2019 03:30:16 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[16-Oct-2019 04:03:42 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[16-Oct-2019 04:30:32 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[17-Oct-2019 04:01:33 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[17-Oct-2019 04:01:48 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[17-Oct-2019 04:02:01 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[17-Oct-2019 04:02:21 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[17-Oct-2019 04:03:44 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[17-Oct-2019 04:06:23 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[17-Oct-2019 04:27:36 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[17-Oct-2019 04:27:36 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[17-Oct-2019 04:28:12 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[17-Oct-2019 04:28:12 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[17-Oct-2019 04:29:03 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[17-Oct-2019 04:29:03 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[17-Oct-2019 04:29:31 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[17-Oct-2019 04:29:31 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[17-Oct-2019 04:30:05 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[17-Oct-2019 04:30:05 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[17-Oct-2019 04:38:01 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[17-Oct-2019 06:59:26 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[17-Oct-2019 07:00:15 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[17-Oct-2019 07:54:21 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[18-Oct-2019 01:26:34 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[18-Oct-2019 02:06:10 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[18-Oct-2019 02:24:33 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[18-Oct-2019 02:26:08 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[18-Oct-2019 02:36:41 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[18-Oct-2019 02:55:54 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[18-Oct-2019 02:56:25 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[18-Oct-2019 02:56:25 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[18-Oct-2019 02:56:42 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[18-Oct-2019 02:56:42 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[18-Oct-2019 03:17:27 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[18-Oct-2019 07:07:54 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[18-Oct-2019 07:30:26 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[18-Oct-2019 07:34:13 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[21-Oct-2019 05:35:49 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[21-Oct-2019 08:16:23 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[21-Oct-2019 08:16:53 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[21-Oct-2019 08:58:43 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[21-Oct-2019 08:59:39 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 08:59:39 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 08:59:56 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 08:59:56 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:00:11 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:00:11 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:00:55 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:00:55 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:01:07 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:01:07 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:01:25 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:01:25 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:01:41 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:01:41 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:01:58 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:01:58 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:02:19 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:02:19 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:02:35 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:02:35 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:04:41 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[21-Oct-2019 09:05:15 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[21-Oct-2019 09:05:15 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[22-Oct-2019 01:35:28 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[22-Oct-2019 01:41:16 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[22-Oct-2019 01:41:16 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[22-Oct-2019 01:43:09 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[22-Oct-2019 01:43:09 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[22-Oct-2019 01:43:35 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[24-Oct-2019 04:41:47 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[25-Oct-2019 01:29:32 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[27-Oct-2019 01:57:18 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[27-Oct-2019 01:59:39 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[27-Oct-2019 01:59:39 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[27-Oct-2019 01:59:55 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[27-Oct-2019 01:59:55 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[27-Oct-2019 02:00:56 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[27-Oct-2019 02:00:56 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[27-Oct-2019 02:01:10 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[27-Oct-2019 02:01:10 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[27-Oct-2019 02:02:05 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[27-Oct-2019 02:02:05 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[30-Oct-2019 01:59:19 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[30-Oct-2019 02:51:56 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[31-Oct-2019 02:34:31 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[31-Oct-2019 07:28:11 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[31-Oct-2019 07:33:45 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[01-Nov-2019 02:17:44 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[05-Nov-2019 01:46:37 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[05-Nov-2019 01:47:32 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:47:32 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:47:55 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:47:55 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:48:11 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:48:11 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:48:36 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:48:36 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:49:17 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:49:17 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:49:36 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:49:36 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:50:00 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:50:00 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:50:20 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:50:20 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:50:37 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:50:37 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:50:50 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:50:50 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:51:26 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:51:26 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:51:44 UTC] PHP Notice:  Undefined variable: objCon in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 01:51:44 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, null given in /home/ouox2te3vlnf/public_html/internship/teacher/update_status_lev.php on line 4
+[05-Nov-2019 04:58:59 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[05-Nov-2019 05:00:36 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[06-Nov-2019 04:02:23 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[06-Nov-2019 11:20:05 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[11-Nov-2019 07:46:17 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[12-Nov-2019 07:14:18 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[20-Nov-2019 01:25:19 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[20-Nov-2019 05:44:17 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[21-Nov-2019 04:20:01 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[22-Nov-2019 01:48:05 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[22-Nov-2019 18:06:18 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[23-Nov-2019 17:16:53 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[23-Nov-2019 17:44:11 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[26-Nov-2019 01:37:18 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[26-Nov-2019 07:54:42 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[26-Nov-2019 09:14:50 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[27-Nov-2019 02:51:45 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[27-Nov-2019 03:39:32 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[27-Nov-2019 04:22:36 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[29-Nov-2019 02:42:50 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[02-Dec-2019 06:49:50 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
+[06-Dec-2019 02:01:10 UTC] PHP Notice:  Undefined index: id in /home/ouox2te3vlnf/public_html/internship/teacher/admin.php on line 276
