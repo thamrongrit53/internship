@@ -3,9 +3,8 @@
 include "./config/connect.php";
 session_start();
 
-$username = $_POST["username"];
-$password = md5($_POST["password"]);
-
+$user=$_SESSION["std_id"];
+$pass=$_SESSION["password"];
 if(empty($username) || empty($password)) {
   echo "
     <script>
@@ -22,7 +21,7 @@ if(empty($username) || empty($password)) {
   $inyr = mysqli_fetch_array($run_inyr);
   $chk_inyr_id = $inyr["inyr_id"];
 
-  $sql = "SELECT * FROM `student` WHERE `std_id`='$username' AND `std_password`='$password' AND `inyr_id`='$chk_inyr_id' ";
+  $sql = "SELECT * FROM `student` WHERE `std_id`='$user' AND `std_password`='$pass' AND `inyr_id`='$chk_inyr_id' ";
   $query = mysqli_query($conn, $sql);
   $count = mysqli_num_rows($query);
 
@@ -49,13 +48,9 @@ if(empty($username) || empty($password)) {
     }
   } else {
     echo "
-      <script>
-        Swal.fire({
-          type: 'warning',
-          title: 'กรุณาตรวจสอบ',
-          text: 'ชื่อผู้ใช้ หรือ รหัสผ่านไม่ถูกต้อง กรุณาตรวจสอบใหม่อีกครั้ง'
-        });
-      </script>
+    <script>
+          window.location.href = 'register.php';
+        </script>
     ";
   }
 }

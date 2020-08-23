@@ -1,8 +1,15 @@
 <?php
+session_start();
 
 include "./config/connect.php";
 
-$std_id = $_POST["std_id"];
+$user=$_SESSION["std_id"];
+$pass=$_SESSION["password"];
+//เก็บlocation
+$lat=$_POST["let"];
+$lng=$_POST["lng"];
+
+$std_id = $user;
 $std_prefix = $_POST["std_prefix"];
 $std_fname = $_POST["std_fname"];
 $std_lname = $_POST["std_lname"];
@@ -20,8 +27,8 @@ $std_tel = $_POST["std_tel"];
 $std_disease = $_POST["std_disease"];
 $std_blood_type = $_POST["std_blood_type"];
 // $std_photo = $_POST["std_photo"];
-$std_pass = $_POST["std_pass"];
-$re_std_pass = $_POST["re_std_pass"];
+$std_pass = $pass;
+$re_std_pass =$pass;
 
 $intd_start_date = $_POST["intd_start_date"];
 $intd_end_date = $_POST["intd_end_date"];
@@ -84,15 +91,15 @@ if (
   empty($emer_district)   || empty($emer_province)    || empty($emer_zipcode)       || 
   empty($emer_tel)        || empty($std_pass)         || empty($re_std_pass)        
 ) { 
-  echo "
-    <script>
-      Swal.fire({
-        type: 'warning',
-        title: 'กรุณาตรวจสอบ',
-        text: 'ข้อมูลไม่ครบถ้วน กรุณาตรวจสอบใหม่อีกครั้ง'
-      });
-    </script>
-  ";
+  // echo "
+  //   <script>
+  //     Swal.fire({
+  //       type: 'warning',
+  //       title: 'กรุณาตรวจสอบ',
+  //       text: 'ข้อมูลไม่ครบถ้วน กรุณาตรวจสอบใหม่อีกครั้ง'
+  //     });
+  //   </script>
+  // ";
 } else {
 
   if( 
@@ -161,15 +168,15 @@ if (
     ";
     exit();
   } else {
-    $std_password = md5($std_pass);
+    $std_password = $std_pass;
 
     $sql_std = "INSERT INTO 
       `student` (`std_id`, `std_prefix`, `std_fname`, `std_lname`, `std_class`, `branch_id`, 
       `std_address_num`, `std_swine`, `std_road`, `std_canton`, `std_district`, `std_province`, 
-      `std_zipcode`, `std_tel`, `std_disease`, `std_blood_type`, `std_password`, `inyr_id`)
+      `std_zipcode`, `std_tel`, `std_disease`, `std_blood_type`, `std_password`, `inyr_id`,`lat`,`lng`)
       VALUES ('$std_id', '$std_prefix', '$std_fname', '$std_lname', '$std_class', '$branch_id', 
       '$std_address_num', '$std_swine', '$std_road', '$std_canton', '$std_district', '$std_province', 
-      '$std_zipcode', '$std_tel', '$std_disease', '$std_blood_type', '$std_password', '$inyr_id')
+      '$std_zipcode', '$std_tel', '$std_disease', '$std_blood_type', '$std_password', '$inyr_id','$lat','$lng')
     ";
 
 
@@ -217,20 +224,20 @@ if (
             text: 'บันทึกข้อมูลสำเร็จ'
           });
           setTimeout(() => {
-            window.location.href = 'login.php';      
+            window.location.href = 'index.php';      
           }, 1000);
         </script>
       ";
     } else {
-      echo "
-        <script>
-          Swal.fire({
-            type: 'error',
-            title: 'ข้อผิดพลาด',
-            text: 'เกิดข้อผิดพลาด กรุณาตรวจสอบอีกครั้ง'
-          });
-        </script>
-      ";
+      // echo "
+      //   <script>
+      //     Swal.fire({
+      //       type: 'error',
+      //       title: 'ข้อผิดพลาด',
+      //       text: 'เกิดข้อผิดพลาด กรุณาตรวจสอบอีกครั้ง'
+      //     });
+      //   </script>
+      // ";
     }
   }
 }

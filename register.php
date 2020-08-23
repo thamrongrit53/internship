@@ -1,4 +1,6 @@
 <?php 
+session_start();
+
   include "./config/connect.php";
   $q_branch = "SELECT * FROM `branch` ORDER BY `branch_id`";
   $run_query = mysqli_query($conn, $q_branch);
@@ -6,6 +8,7 @@
   $inyr_q = "SELECT * FROM `intern_year` ORDER BY inyr_id DESC LIMIT 0,1 ";
   $run_inyr = mysqli_query($conn, $inyr_q);
   $inyr = mysqli_fetch_array($run_inyr);
+
 ?>
 
 <!DOCTYPE html>
@@ -389,25 +392,25 @@
               </div>
             </div>
             <div class="container"><br></div>
-            <div class="card">
+       <div class="card">
               <div class="card-header">
-                ตั้งค่ารหัสผ่าน
+                เช็คอินสถานที่ฝึกงาน
               </div>
               <div class="card-body">
                 <div class="form-group">
                   <div class="row">
                     <div class="col-md-6">
-                      <label for="std_pass">รหัสผ่าน:</label>
-                      <input type="password" class="form-control" id="std_pass" placeholder="รหัสผ่าน" name="std_pass" min="8" required>
+                      <label for="std_pass">latitude:</label>
+                      <input type="text" class="form-control" id="lat" name="lat" readonly>
                     </div>
                     <div class="col-md-6">
-                      <label for="re_std_pass">ยืนยันรหัสผ่าน:</label>
-                      <input type="password" class="form-control" id="re_std_pass" placeholder="ยืนยันรหัสผ่าน" name="re_std_pass" min="8" required>
+                      <label for="re_std_pass">longitude:</label>
+                      <input type="text" class="form-control" id="lng" name="lng" readonly>
                     </div>
                   </div>
                   <div class="row mt-2">
                     <div class="col-md-12">
-                      <small class="text-danger">หมายเหตุ: รหัสผ่านควรมีความยาวไม่น้อยกว่า 8 ตัวอักษร</small>
+                    <button type="button" class="btn btn-danger" onclick="getLocation()">เช็คอิน</button>
                     </div>
                   </div>
                 </div>
@@ -417,7 +420,7 @@
             <div class="form-group">
               <div class="row">
                 <div class="col-md-3">
-                  <button type="submit" class="btn btn-primary" id="regis_btn">SUBMIT</button>
+                  <button type="submit" class="btn btn-primary" id="regis_btn">สมัครฝึกงาน</button>
                 </div>
               </div>
             </div>
@@ -490,3 +493,20 @@
 
 
 </html>
+<script>
+var x = document.getElementById("demo");
+
+function getLocation() {
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(showPosition);
+  } else { 
+    x.innerHTML = "Geolocation is not supported by this browser.";
+  }
+}
+
+function showPosition(position) {
+document.getElementById("lat").value = position.coords.latitude;
+document.getElementById("lng").value = position.coords.longitude;
+}
+
+</script>

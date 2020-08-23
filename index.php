@@ -62,11 +62,20 @@
 
       <!-- Nav Item - Dashboard -->
       <li class="nav-item active">
+        <a class="nav-link" href="https://www.sbac.online/event/home.php">
+          <i class="fas fa-tachometer-alt"></i>
+          <span>Sbac Event</span></a>
+      </li>
+
+  <!-- Divider -->
+      <hr class="sidebar-divider my-0">
+
+      <!-- Nav Item - Dashboard -->
+      <li class="nav-item active">
         <a class="nav-link" href="index.php?page=dashboard">
           <i class="fas fa-tachometer-alt"></i>
           <span>Dashboard</span></a>
       </li>
-
       <!-- Divider -->
       <hr class="sidebar-divider">
 
@@ -94,7 +103,6 @@
         </a>
         <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
-            <a class="collapse-item" href="index.php?page=leaves">ส่งใบลา</a>
             <a class="collapse-item" href="index.php?page=doc_download">ดาวน์โหลดเอกสาร</a>
           </div>
         </div>

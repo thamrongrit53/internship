@@ -14,7 +14,7 @@ echo "
       showCancelButton: true,
     }).then((result) => {
       if(result.value) {
-        window.location.href = 'login.php';   
+        window.location.href = 'https://www.sbac.online/event/login.php';   
       }
     });
   </script>
