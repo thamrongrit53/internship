@@ -83,8 +83,9 @@ session_start();
                     <div class="col-md-4">
                       <label for="std_class">ระดับชั้น:</label>
                       <select class="form-control" id="std_class" name="std_class">
-                        <option value="ปวช">ปวช.</option>
-                        <option value="ปวส">ปวส.</option>
+                        <option value="ปวช.3">ปวช.3</option>
+                        <option value="ปวส.2">ปวส.2</option>
+                        <option value="ปวส.2เสาร์-อาทิตย์">ปวส.2เสาร์-อาทิตย์</option>
                       </select>
                     </div>
                     <div class="col-md-4">
@@ -400,11 +401,11 @@ session_start();
                 <div class="form-group">
                   <div class="row">
                     <div class="col-md-6">
-                      <label for="std_pass">latitude:</label>
+                      <label>latitude:</label>
                       <input type="text" class="form-control" id="lat" name="lat" readonly>
                     </div>
                     <div class="col-md-6">
-                      <label for="re_std_pass">longitude:</label>
+                      <label>longitude:</label>
                       <input type="text" class="form-control" id="lng" name="lng" readonly>
                     </div>
                   </div>

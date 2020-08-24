@@ -6,7 +6,7 @@ include "./config/connect.php";
 $user=$_SESSION["std_id"];
 $pass=$_SESSION["password"];
 //เก็บlocation
-$lat=$_POST["let"];
+$lat=$_POST["lat"];
 $lng=$_POST["lng"];
 
 $std_id = $user;
@@ -91,15 +91,15 @@ if (
   empty($emer_district)   || empty($emer_province)    || empty($emer_zipcode)       || 
   empty($emer_tel)        || empty($std_pass)         || empty($re_std_pass)        
 ) { 
-  // echo "
-  //   <script>
-  //     Swal.fire({
-  //       type: 'warning',
-  //       title: 'กรุณาตรวจสอบ',
-  //       text: 'ข้อมูลไม่ครบถ้วน กรุณาตรวจสอบใหม่อีกครั้ง'
-  //     });
-  //   </script>
-  // ";
+  echo "
+    <script>
+      Swal.fire({
+        type: 'warning',
+        title: 'กรุณาตรวจสอบ',
+        text: 'ข้อมูลไม่ครบถ้วน กรุณาตรวจสอบใหม่อีกครั้ง'
+      });
+    </script>
+  ";
 } else {
 
   if( 
