@@ -91,11 +91,7 @@ include "connect.php";
           <i class="fas fa-fw fa-table"></i>
           <span>บันทึกฝึกงานนักศึกษา</span></a>
       </li>
-         <li class="nav-item">
-        <a class="nav-link" href="Record_leave.php">
-          <i class="fas fa-fw fa-table"></i>
-          <span>การลาฝึกงาน</span></a>
-      </li>
+    
     
       <li class="nav-item">
         <a class="nav-link" href="InternshipTime.php">

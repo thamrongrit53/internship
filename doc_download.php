@@ -10,15 +10,37 @@
       <table class="table table-bordered" width="100%" cellspacing="0">
         <thead>
           <tr>
-            <th>เอกสาร</th>
+            <th>เอกสารสาขาการบัญชี</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td><a href="https://drive.google.com/drive/folders/1ZuIc9VmqwTk5-9FXcG5P74_HYqB7OLOE?usp=sharing">Google Drive</a></td>
+          <td><a href="https://www.sbac.online/internship/download_file_acc.php">ดาวโหลดเอกสารสาขาการบัญชี</a></td>
           </tr>
-
         </tbody>
+          <thead>
+          <tr>
+            <th>เอกสารสาขาคอมพิวเตอร์</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="https://www.sbac.online/internship/download_file_com.php">ดาวโหลดเอกสารสาขาคอมพิวเตอร์</a></td>
+          </tr>
+        </tbody>
+             <thead>
+          <tr>
+            <th>เอกสารสาขาการตลาด</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+           <td><a href="https://www.sbac.online/internship/download_file_mkt.php">ดาวโหลดเอกสารสาขาการตลาด</a></td>
+          </tr>
+        </tbody>
+
+
+
       </table>
     </div>
   </div>

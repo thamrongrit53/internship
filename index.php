@@ -3,7 +3,11 @@
   include "./config/connect.php";
 
   if(!isset($_SESSION['std_id'])){
-    echo "<script>window.location.href = 'login.php';</script>";
+     echo "
+        <script>
+          window.location.href = 'https://www.sbac.online/event/login.php';
+        </script>
+      ";
   } else {
     $std_id = $_SESSION['std_id'];
     $std_photo = $_SESSION['std_photo'];
@@ -154,10 +158,7 @@
                   <i class="fas fa-cloud-upload-alt fa-sm fa-fw mr-2 text-gray-400"></i>
                   อัพโหลดรูป
                 </a>
-                <a class="dropdown-item" href="index.php?page=setting">
-                  <i class="fas fa-cogs fa-sm fa-fw mr-2 text-gray-400"></i>
-                  การตั้งค่า
-                </a>
+                
                 <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="#" id="logout_btn">
                   <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>

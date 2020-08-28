@@ -87,11 +87,7 @@ include "connect.php";
           <i class="fas fa-fw fa-table"></i>
           <span>บันทึกฝึกงานนักศึกษา</span></a>
       </li>
-         <li class="nav-item">
-        <a class="nav-link" href="Record_leave.php">
-          <i class="fas fa-fw fa-table"></i>
-          <span>การลาฝึกงาน</span></a>
-      </li>
+  
       
       <li class="nav-item">
         <a class="nav-link" href="InternshipTime.php">
@@ -149,9 +145,9 @@ include "connect.php";
                 <div class="card-body-icon">
                   <i class="fas fa-fw fa-list"></i>
                 </div>
-                <div class="mr-5">รายงานการลาฝึกงาน</div>
+                <div class="mr-5">รายงานเวลาฝึกงาน</div>
               </div>
-              <a class="card-footer text-white clearfix small z-1" href="Record_leave.php">
+              <a class="card-footer text-white clearfix small z-1" href="InternshipTime.php">
                 <span class="float-left">ดูเพิ่ม</span>
                 <span class="float-right">
                   <i class="fas fa-angle-right"></i>

@@ -5,16 +5,13 @@ session_start();
 
 $user=$_SESSION["std_id"];
 $pass=$_SESSION["password"];
-if(empty($username) || empty($password)) {
+
+if(empty($user) || empty($pass)) {
   echo "
-    <script>
-      Swal.fire({
-        type: 'warning',
-        title: 'กรุณาตรวจสอบ',
-        text: 'ข้อมูลไม่ครบถ้วน กรุณาตรวจสอบใหม่อีกครั้ง'
-      });
-    </script>
-  ";
+        <script>
+          window.location.href = 'https://www.sbac.online/event/login.php';
+        </script>
+      ";
 } else {
   $inyr_q = "SELECT * FROM `intern_year` ORDER BY inyr_id DESC LIMIT 0,1 ";
   $run_inyr = mysqli_query($conn, $inyr_q);

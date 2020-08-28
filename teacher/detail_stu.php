@@ -91,11 +91,7 @@ include "connect.php";
           <i class="fas fa-fw fa-table"></i>
           <span>บันทึกฝึกงานนักศึกษา</span></a>
       </li>
-         <li class="nav-item">
-        <a class="nav-link" href="Record_leave.php">
-          <i class="fas fa-fw fa-table"></i>
-          <span>การลาฝึกงาน</span></a>
-      </li>
+       
       
       <li class="nav-item ">
         <a class="nav-link" href="InternshipTime.php">
@@ -205,8 +201,19 @@ while ($result=mysqli_fetch_array($query,MYSQLI_ASSOC)) {
                       <input type="date" class="form-control" id="start_date" placeholder="" name="intd_end_date"value="<?php echo $result["intd_end_date"];?>" required>
                     </div>
                   </div>
+                   <div class="row">
+                    <div class="col-md-6">
+                      <label for="uname">latitude:</label>
+                      <input type="text" class="form-control" id="latitude" placeholder="" name="latitude" value="<?php echo $result["lat"];?>" required>
+                    </div>
+                    <div class="col-md-6">
+                      <label for="uname">longitude:</label>
+                      <input type="text" class="form-control" id="longitude" placeholder="" name="longitude"value="<?php echo $result["lng"];?>" required>
+                    </div>
+                  </div>
                   <div class="row">
                     <div class="col-md-12">
+
                       <label for="uname">รูปถ่ายนักศึกษาฝึกงาน:</label>
                       <div class="custom-file mb-3">
                       <img src='../images/students/<?php echo $result["std_photo"]; ?>' id="img" class="img-thumbnail" style="width:200px;">

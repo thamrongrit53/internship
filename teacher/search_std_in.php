@@ -131,11 +131,6 @@ include "connect.php";
             <form method="post" action="export_student_internship.php">
      <input type="submit" name="export" class="btn btn-success" value="Export" />
     </form>
-    <form method="POST" action="search_std_in.php">
-       <span class="input-group-addon">ค้นหา</span>
-     <input type="text" name="search" placeholder="รหัสนักศึกษา" class="form-control" />
-     <input type="submit" class="btn btn-primary" value="ค้นหา" />
-    </form>
             </div>
           <div class="card-body">
             <div class="table-responsive">
@@ -167,8 +162,9 @@ include "connect.php";
                <tbody>
                               
 <?php
+$search=$_POST["search"];
 
-$sql = "SELECT student.*,branch.* FROM student,branch WHERE student.branch_id = branch.branch_id";
+$sql = "SELECT student.*,branch.* FROM student,branch WHERE student.branch_id = branch.branch_id AND student.std_id='$search'";
 $query = mysqli_query($conn,$sql);
 
 while ($result=mysqli_fetch_array($query,MYSQLI_ASSOC)) {

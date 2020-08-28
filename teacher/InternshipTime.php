@@ -91,11 +91,6 @@ include "connect.php";
           <i class="fas fa-fw fa-table"></i>
           <span>บันทึกฝึกงานนักศึกษา</span></a>
       </li>
-         <li class="nav-item">
-        <a class="nav-link" href="Record_leave.php">
-          <i class="fas fa-fw fa-table"></i>
-          <span>การลาฝึกงาน</span></a>
-      </li>
       
       <li class="nav-item active">
         <a class="nav-link" href="InternshipTime.php">
@@ -166,7 +161,7 @@ include "connect.php";
                 </tfoot>
               <?php
                 $sql = "SELECT student.*,branch.*,work_time.* FROM student,branch,work_time
-  WHERE student.branch_id = branch.branch_id AND student.std_id = work_time.std_id";
+  WHERE student.branch_id = branch.branch_id AND student.std_id = work_time.std_id ORDER BY work_time.std_id DESC";
 $query = mysqli_query($conn,$sql);
 
 while ($result=mysqli_fetch_array($query,MYSQLI_ASSOC)) {

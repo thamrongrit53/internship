@@ -229,15 +229,15 @@ if (
         </script>
       ";
     } else {
-      // echo "
-      //   <script>
-      //     Swal.fire({
-      //       type: 'error',
-      //       title: 'ข้อผิดพลาด',
-      //       text: 'เกิดข้อผิดพลาด กรุณาตรวจสอบอีกครั้ง'
-      //     });
-      //   </script>
-      // ";
+      echo "
+        <script>
+          Swal.fire({
+            type: 'error',
+            title: 'ข้อผิดพลาด',
+            text: 'เกิดข้อผิดพลาด กรุณาตรวจสอบอีกครั้ง'
+          });
+        </script>
+      ";
     }
   }
 }

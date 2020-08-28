@@ -139,7 +139,6 @@ $hour = (int)$data1["wt_sum"];
           <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in" aria-labelledby="dropdownMenuLink">
             <div class="dropdown-header">ตัวเลือก:</div>
             <a class="dropdown-item" href="index.php?page=profile">ข้อมูลส่วนตัว</a>
-            <a class="dropdown-item" href="index.php?page=setting">การตั้งค่า</a>
           </div>
         </div>
       </div>
